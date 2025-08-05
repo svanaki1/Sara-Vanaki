@@ -21,18 +21,18 @@ repository               : "svanaki1/svanaki1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot prom small.jpg"
+  avatar           : "headshot prom small.JPG"
   name             : "Sara Vanaki"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in <a href=http://www.caam.rice.edu/>Computational Applied Mathematics and Operations Research at Rice University</a>"
-  location         : "803 BRC<br>&emsp;&nbsp;&nbsp; 6100 Main St<br>&emsp;&nbsp;&nbsp; Houston, TX, 77005<br>&emsp;&nbsp;&nbsp; 409-893-1477"
+  bio              : "PhD Student in <a href=https://eceweb.rice.edu/>Electrical and Computer Engineering at Rice University</a>"
+  location         : "803 BRC<br>&emsp;&nbsp;&nbsp; 6500 Main St<br>&emsp;&nbsp;&nbsp; Houston, TX, 77003<br>&emsp;&nbsp;&nbsp; 949-743-4728"
   employer         : "Rice University"
   uri              : # URL
   email            : "svanaki@rice.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=7HjP2gYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=rDln1gYAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jdsteinman"
+  github           : "svanaki1"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sara-vanaki-858722190/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
